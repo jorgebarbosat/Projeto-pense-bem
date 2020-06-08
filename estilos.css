@@ -1,0 +1,22 @@
+body{
+    background-color: #cccccc;
+}
+div#conteudo{
+    background-color: #eeeebb;
+padding: 10px;
+text-align: center;
+width: 93%;
+max-width: 300px;
+margin: 0 auto;
+}
+input#visor1 {
+width: 90%;
+height: 75px;
+border: black 1px solid;
+font-family: 'Courier New';
+font-size: 30pt;
+font-weight: bold;
+text-align: center;
+background-color: black;
+color: red;
+}
